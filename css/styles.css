@@ -76,6 +76,7 @@
   }
 }
 
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -5334,7 +5335,7 @@ textarea.form-control-lg {
   background-color: #055160;
   border-color: #055160;
 }
-
+ 
 .list-group-item-warning {
   color: #664d03;
   background-color: #fff3cd;
@@ -7717,7 +7718,8 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  /* color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
+  color: #ff0000;
 }
 
 .text-secondary {
@@ -11313,6 +11315,7 @@ p {
   display: block;
   font-size: 2rem;
   font-weight: 800;
+   
 }
 .site-heading .site-heading-lower {
   font-size: 5rem;
@@ -11489,3 +11492,4 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
