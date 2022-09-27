@@ -7719,11 +7719,9 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   /* color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
-<<<<<<< HEAD
+ 
   color: #fab11c;
-=======
-  color: #40e0d0;
->>>>>>> 120b3ccc2741a3912f73f5791b56b32b1338d11e
+ 
 }
 
 .text-secondary {
